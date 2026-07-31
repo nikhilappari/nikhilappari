@@ -1,7 +1,10 @@
-# Hi, I'm Mohan Venkata Nikhil Appari👋
+# Hi, I'm nikhil appari👋
 
+<br/>
+<br/>
+<br/>
 
-## 👨‍💻 About Me
+<h2 align="left">👨‍💻 About Me</h2>
 
 - 🎓 B.Tech Student
 - 🤖 Aspiring Machine Learning Engineer
@@ -9,6 +12,10 @@
 - 💻 Building Full Stack projects using Node.js, Express.js and MongoDB
 - 🚀 Improving problem-solving through C++ and LeetCode
 - 📍 Kakinada, Andhra Pradesh, India
+
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -20,15 +27,31 @@
 
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 <!-- STATS CARDS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilappari&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=108981&fire=108981&currStreakNum=22D3EE&sideNums=22D3EE&sideTitle=22D3EE&dates=A78BFA" width="100%" alt="GitHub Streak" />
+<h2 align="center">⚡ GitHub Analytics</h2>
 
+<div align="center">
+<img height="180em"
+src="https://github-readme-stats-nine-liart.vercel.app/api/top-langs/?username=nikhilappari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<p align="center"> <img src="https://github-readme-stats-nine-liart.vercel.app/api?username=nikhilappari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" /> <img src="https://streak-stats.demolab.com?user=nikhilappari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" /> </p>
+</div>
 <br/><br/>
 
-<img src="https://github-readme-stats-nine-liart.vercel.app/api?username=nikhilappari&show_icons=true&hide_rank=true&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=A78BFA&icon_color=108981" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-nine-liart.vercel.app/api/top-langs/?username=nikhilappari&layout=compact&theme=dark&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=A78BFA" width="49%" alt="Top Languages" />
 
-<br/><br/>
+
+
 
 <!-- CONTRIBUTION SNAKE -->
 <picture>
