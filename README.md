@@ -1,8 +1,6 @@
 # Hi, I'm nikhil appari👋
 
-<br/>
-<br/>
-<br/>
+
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -13,8 +11,6 @@
 - 🚀 Improving problem-solving through C++ and LeetCode
 - 📍 Kakinada, Andhra Pradesh, India
 
-<br/>
-<br/>
 <br/>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
@@ -28,9 +24,7 @@
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 
 
